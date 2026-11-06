@@ -22,4 +22,4 @@ jobs:
           rolling: true
           visibility: "public"
           include-output-paths: true
-          extra-labels: "AI,flake,aarch64-darwin,llama.cpp"
+          extra-labels: "AI,flake,aarch64-darwin,llama-cpp"
