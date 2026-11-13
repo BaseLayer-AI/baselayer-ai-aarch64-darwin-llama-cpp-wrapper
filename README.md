@@ -1,5 +1,7 @@
 # BaseLayer-AI aarch64-darwin llama.cpp local environment wrapper
 
+# [This flake is not maintained anymore, please go to [baselayer-ai-aarch64-darwin-llama-cpp](https://flakehub.com/flake/BaseLayer-AI/baselayer-ai-aarch64-darwin-llama-cpp?view=readme) ]
+
 ```
 └───packages
     └───aarch64-darwin
